@@ -1,5 +1,6 @@
 # Stevens Institute of Technology | Hanlon Lab
-## Daily Stock Summary: Generating Daily Digest of Previous Day's Stock Performance
+## Daily Stock Summary: 
+### "Generating Daily Digest of Previous Day's Stock Performance with Media Sentiment Analysis"
 
 The aim of this project is to develop an automated script to send daily summary of previous day's stock performance over email.
 This is intended for passive investors who would wan't to receive a daily digest of all the stocks they's invested in and their net profit.
