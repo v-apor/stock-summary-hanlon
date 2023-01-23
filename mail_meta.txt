@@ -1,0 +1,3 @@
+to: <recepients_email>
+From: <sendors_email>
+Subject: Daily Stocks Portfolio Summary & NEWS Sentiment | Hanlon Lab | achand14

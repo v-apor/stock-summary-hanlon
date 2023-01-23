@@ -1,0 +1,24 @@
+{
+    "portfolio":[
+        {
+            "ticker":"GOOG", 
+            "name": "google", 
+            "holding": [[30, 77.2], [10, 90.1]]
+        },
+        {
+            "ticker":"AAPL", 
+            "name": "apple", 
+            "holding": [[10, 149.5]]
+        },
+        {
+            "ticker":"MSFT", 
+            "name": "microsoft", 
+            "holding": [[20, 200]]
+        },
+        {
+            "ticker":"TSLA",
+            "name": "tesla", 
+            "holding": [[15, 70]]
+        }
+    ]
+}
