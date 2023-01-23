@@ -28,3 +28,7 @@ There is a sentiment analysis component, which fetches trending news related to 
 The following line is to be added in crontab to schedule daily execution at 7:00AM (12:00PM UTC).
 
 0 12 * * * /usr/bin/sh /home/ubuntu/hanlon_project/send_mail.sh
+
+## Suggested Future Work
+1. Add time dependent stocks, with date on which to sell.
+2. Change the time to include only trade hours, to avoid confusion with 24 hour format.
